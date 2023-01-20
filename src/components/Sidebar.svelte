@@ -3,8 +3,8 @@
     let spanClass = 'flex-1 ml-3 whitespace-nowrap';
   </script>
   
-  <Sidebar class="!w-full m-4">
-    <SidebarWrapper class="!rounded-none">
+  <Sidebar class="!w-full m-4 overflow-x-hidden">
+    <SidebarWrapper class="!rounded-none overflow-x-hidden">
       <SidebarGroup>
         <SidebarItem label="Dashboard">
           <svelte:fragment slot="icon">

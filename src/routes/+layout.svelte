@@ -1,4 +1,5 @@
 <script lang="ts">
+    
     import { preferences } from '../util/store';
     $: currentTheme = $preferences.theme;
 
