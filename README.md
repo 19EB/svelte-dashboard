@@ -5,7 +5,7 @@
 Clone the project to your local machine
 
 ```bash
-git clone https://github.com/19EB/svelte-admin
+git clone https://github.com/19EB/svelte-dashboard
 ```
 
 ## Running the project
