@@ -1,5 +1,10 @@
 # Dashboard built using Svelte, Tailwind and Flowbite
 
+Some components are directly from flowbite-svelte documentation just as filler content
+
+## Preview
+![Preview of the dashboard](https://i.imgur.com/6vC1JmM.png)
+
 ## Setup
 
 Clone the project to your local machine
