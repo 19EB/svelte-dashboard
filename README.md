@@ -2,9 +2,6 @@
 
 Some components are directly from flowbite-svelte documentation just as filler content
 
-## Live preview
-https://seb.gg/svelte-dashboard/
-
 ## Preview
 ![Preview of the dashboard](https://i.imgur.com/6vC1JmM.png)
 
